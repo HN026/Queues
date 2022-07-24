@@ -1,2 +1,2 @@
-
-    enqueue(10);
+(&q);
+   Display(q);
